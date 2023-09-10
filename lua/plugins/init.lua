@@ -3,6 +3,9 @@
 local default_plugins = {
 
   "nvim-lua/plenary.nvim",
+  "vimwiki/vimwiki",
+  "tbabej/taskwiki",
+  "plasticboy/vim-markdown",
 
   {
     "NvChad/base46",
